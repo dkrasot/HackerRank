@@ -10,7 +10,8 @@ import java.util.Comparator;
 import java.util.List;
 
 public class HackerRank {
-
+// notes: https://docs.google.com/document/d/1X4zix_ZBp7ElC3O8h05JonpyC-5-SGUbWIBPcDoyUjI/edit 
+// site: https://www.hackerrank.com/domains/java/java-strings    
     public static void main(String[] args) {
         
     }
